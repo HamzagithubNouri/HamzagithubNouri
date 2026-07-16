@@ -2,8 +2,6 @@
 
 Software Engineering student at **ESPRIT** specializing in Software Engineering (Génie Logiciel).
 
-Currently working on **CampConnect** — a full-stack academic platform (Angular / Spring Boot / FastAPI / MySQL).
-
 ---
 
 ## 🛠️ Tech Stack
