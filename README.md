@@ -42,4 +42,4 @@ Software Engineering student at **ESPRIT** specializing in Software Engineering 
 ## 📫 Contact
 
 - 📧 Email: hamza.nouri@esprit.tn
-- 💼 LinkedIn: [linkedin.com/in/hamza-nouri](https://linkedin.com/in/hamza-nouri)
+- 💼 LinkedIn: [www.linkedin.com/in/hamzanouri](https://linkedin.com/in/hamzanouri)
